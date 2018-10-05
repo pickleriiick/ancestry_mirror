@@ -1,3 +1,6 @@
+This is a mirror of the ancestry bitbucket provided at https://bitbucket.org/joepickrell/ancestry
+The author of this repo can request the removal of this mirror, as its unclear why the original is no longer available.
+
 Ancestry is a program for inferring the "genetic ancestry" of an individual from their genotype or sequence data. It requires a reference set of labeled individuals, and models the test individual as a mixture of these reference sets. The underlying model is the [Pritchard, Stephens, and Donnelly STRUCTURE model](http://www.ncbi.nlm.nih.gov/pubmed/10835412). 
 
 More detailed documentation to come. 
